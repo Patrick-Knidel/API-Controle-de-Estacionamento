@@ -1,4 +1,4 @@
-# Controle-de-Estacionamento
+# API-Controle-de-Vagas-Estacionamento
 
 Projeto criado com intuito de aprender um pouco mais sobre o framework SPRING BOOT com foco no desenvolvimento web.
 
